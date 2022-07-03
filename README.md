@@ -15,13 +15,6 @@ https://github.com/apkuznetsov/deep-learning-2021
 
 🤖🖼️ Порождение подписей на русском языке к изображениям (Python, Keras). Собрал нейросеть из двух частей – свёрточная и рекуррентная части. Получил датасет путём перевода на русский датасета Flickr 8k с помощью Yandex Translate API. Получил метрику BLEU равной 0.51.
 
-## GitHub Stats
-<p align="center">
-      <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apkuznetsov&hide=jupyter%20notebook&layout=compact" />
-</table>
-</p>
-
-
 <!--
 **apkuznetsov/apkuznetsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
